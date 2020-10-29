@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Create code challenge",
+      "assigned": {
+        "id": 4,
+        "name": "Fenna Candycane"
+      }
+    },
+    {
+      "id": 1,
+      "description": "Migrate db.json",
+      "assigned": {
+        "id": 6,
+        "name": "Snowy Sparkles"
+      }
+    }
+  ],
+  "devs": [
+    {
+      "id": 1,
+      "name": "Sunny Europa"
+    },
+    {
+      "id": 2,
+      "name": "Arryn Starwanderer"
+    },
+    {
+      "id": 3,
+      "name": "Chuckle Cherry Blossom"
+    },
+    {
+      "id": 4,
+      "name": "Fenna Candycane"
+    },
+    {
+      "id": 5,
+      "name": "Michael Rainwalker"
+    },
+    {
+      "id": 6,
+      "name": "Snowy Sparkles"
+    },
+    {
+      "id": 7,
+      "name": "Sable Bubblepop"
+    }
+  ]
+}
